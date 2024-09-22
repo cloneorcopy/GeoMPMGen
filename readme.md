@@ -1,4 +1,4 @@
-0# GeoMPMGen GUI Installer
+# GeoMPMGen GUI Installer
 This repository hosts the GUI installer for the paper: **"A 3D Material Point Discretization Approach for Complex Terrain and Geological Body: Numerical Implementation and Application."** 
 
 The program supports Windows 10/11 platforms and includes examples demonstrated in the paper.
